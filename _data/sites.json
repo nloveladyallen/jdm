@@ -4945,9 +4945,10 @@
     },
 
     {
-        "name": "Overcast.fm",
+        "name": "Overcast",
         "url": "https://overcast.fm/account",
-        "difficulty": "impossible",
+        "notes": "Once logged in, click \"Delete Your Account\" at the bottom, then enter your password again and click \"Permanently Delete Account\".",
+        "difficulty": "easy",
         "domains": [
             "overcast.fm"
         ]
